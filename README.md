@@ -48,7 +48,7 @@ false
 
 ```
     
-## Documentation Erlang
+## Erlang/OTP Documentation 
 
 [Erlang/OTP Documentation](https://www.erlang.org/docs)
 
